@@ -1,4 +1,4 @@
-Javascript-Problems-Solving-Practice
+To-DO-LIST APP
 
 This repo is for JavaScript Problem solving Practice activity.
 This activity is based on making different live projects given by the instructor to different teams.
